@@ -9,19 +9,17 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
-### `// SMOOTH IS FAST //`
+### `// NOTES FROM THE UNDERGROUND //`
 
-_somewhere between impatience and precision_
+_somewhere between a clean proof and a messy life_
 
-```text
-Consistency beats intensity. Every. Single. Day.
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=building+systems+from+scratch;breaking+things+to+understand+them;turning+thoughts+into+commands;if+it+works%2C+i+ask+why" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-## 🏁 THE APPROACH
+##  THE APPROACH
 
 > I’m **Mayank** — `Rancidcake` in the logs.  
 > I don’t chase “perfect.” I chase **repeatable**.  
@@ -35,7 +33,7 @@ I build systems and tools the same way you build pace:
 
 ---
 
-## ⚙️ CURRENT WORK
+##  CURRENT WORK
 
 ```python
 state = {
@@ -48,7 +46,7 @@ state = {
 
 ---
 
-## 🔧 WHAT I VALUE
+##  WHAT I VALUE
 
 - calm debugging over clever hacks
 - simple interfaces, strong internals
