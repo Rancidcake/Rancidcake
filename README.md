@@ -66,3 +66,19 @@ state = {
 > status: steady
 > next: find time in the margins
 ```
+<h2 align="center">📡 SIGNAL COORDINATES — <i>FIND ME IN THE VOID</i></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-hete-3229021bb/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Mayank-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/">
+    <img src="https://img.shields.io/badge/X-@YOURHANDLE-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/Maddddy11">
+    <img src="https://img.shields.io/badge/GITHUB-Maddddy11-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mayankrajeshhete@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-mayankrajeshhete%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
