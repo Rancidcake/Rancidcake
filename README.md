@@ -9,9 +9,9 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
-### `// NOTES FROM THE UNDERGROUND //`
+### `// FIRST PRINCIPLES, THEN FEATURES //`
 
-_somewhere between a clean proof and a messy life_
+_somewhere between impatience and precision_
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=building+systems+from+scratch;breaking+things+to+understand+them;turning+thoughts+into+commands;if+it+works%2C+i+ask+why" alt="Typing SVG" /></a>
 
