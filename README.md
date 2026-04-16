@@ -56,16 +56,6 @@ state = {
 ---
 
 ## 📡 REACH
-
-- [mayankrajeshhete@gmail.com](mailto:mayankrajeshhete@gmail.com)
-- [linkedin.com/in/mayank-hete-3229021bb](https://www.linkedin.com/in/mayank-hete-3229021bb/)
-
----
-
-```bash
-> status: steady
-> next: find time in the margins
-```
 <h2 align="center">📡 SIGNAL COORDINATES — <i>FIND ME IN THE VOID</i></h2>
 
 <p align="center">
@@ -74,9 +64,17 @@ state = {
   </a>
   
   <a href="https://github.com/Rancidcake">
-    <img src="https://img.shields.io/badge/GITHUB-Maddddy11-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-Mayank_Hete-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:mayankrajeshhete@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-mayankrajeshhete%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
+---
+
+```bash
+> status: steady
+> next: find time in the margins
+```
