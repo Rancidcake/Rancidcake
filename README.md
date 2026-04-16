@@ -1,12 +1,59 @@
-Hi, I’m Mayank 👋
+#Rancidcake
 
-I like building things and understanding how they work under the hood — from AI systems to low-level stuff.
+```bash
+// TRANSMISSION INCOMING //
 
-Right now I’m working on a custom RISC-V OS, experimenting with LLM-powered tools, and exploring system design.
+somewhere between a kernel panic and a working system
 
-Big on Linux, privacy-first infra, and clean, simple solutions.
+> builder of things that probably shouldn’t exist
+```
 
-If you're into systems, AI, or building weird but useful things — let’s connect.
+<p align="center">
+  <!-- you can replace this with your own typing svg -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=building+systems...;breaking+them...;rebuilding+them+better" />
+</p>
 
-📫 mayankrajeshhete@gmail.com
-🔗 https://www.linkedin.com/in/mayank-hete-3229021bb/
+---
+
+## 👋 hey
+
+i’m mazan —
+i build, break, and rebuild things until they make sense.
+
+no dramatic story. just curiosity + a terminal.
+
+---
+
+## ⚙️ current state
+
+```python
+status = {
+  "building": ["risc-v os", "llm tools"],
+  "learning": ["systems", "low-level", "infra"],
+  "belief": "if it works, understand why",
+  "vibe": "linux + privacy + clean systems"
+}
+```
+
+---
+
+## 🧠 what i like
+
+* systems that feel simple (but aren’t)
+* ai that’s actually useful
+* tools that remove friction
+* figuring out *how things really work*
+
+---
+
+## 📡 reach
+
+* [mayankrajeshhete@gmail.com](mailto:mayankrajeshhete@gmail.com)
+* linkedin.com/in/mayankhete
+
+---
+
+```bash
+> status: running
+> next: build something better
+```
