@@ -56,7 +56,6 @@ state = {
 ---
 
 ## 📡 REACH
-<h2 align="center">📡 SIGNAL COORDINATES — <i>FIND ME IN THE VOID</i></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayank-hete-3229021bb/">
