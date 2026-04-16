@@ -72,10 +72,8 @@ state = {
   <a href="https://www.linkedin.com/in/mayank-hete-3229021bb/">
     <img src="https://img.shields.io/badge/LINKEDIN-Mayank-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/X-@YOURHANDLE-111111?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://github.com/Maddddy11">
+  
+  <a href="https://github.com/Rancidcake">
     <img src="https://img.shields.io/badge/GITHUB-Maddddy11-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:mayankrajeshhete@gmail.com">
