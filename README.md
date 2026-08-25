@@ -19,7 +19,7 @@ _somewhere between impatience and precision_
 
 ---
 
-##  THE APPROACH
+##  My APPROACH
 
 > I’m **Mayank** — `Rancidcake` in the logs.  
 > I don’t chase “perfect.” I chase **repeatable**.  
